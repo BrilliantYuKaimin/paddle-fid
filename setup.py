@@ -43,6 +43,5 @@ if __name__ == '__main__':
             'numpy',
             'pillow',
             'scipy',
-            'paddlepaddle>=2.0.0'
         ]
     )
